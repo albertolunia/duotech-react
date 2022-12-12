@@ -12,7 +12,6 @@ export const Button = styled.button`
   font-size: 14px;
   line-height: 18px;
 
-  padding: 10px;
-  padding-left: 30px;
   margin: 10px;
+  border: none;
 `;
